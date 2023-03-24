@@ -1,0 +1,6 @@
+node_modules
+venv
+__pycahche__
+.virtualenvs
+.venv
+trained_model
